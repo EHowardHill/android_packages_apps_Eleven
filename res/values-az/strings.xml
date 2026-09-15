@@ -80,7 +80,7 @@
     <string name="context_menu_fetch_artist_image">Sənətçinin şəklini endir</string>
     <string name="context_menu_remove_from_recent">Son çalınanlardan çıxart</string>
     <string name="context_menu_use_as_ringtone">Zəng səsi kimi istifadə et</string>
-    <string name="context_menu_remove_from_playlist">Pleylistdən sil</string>
+    <string name="context_menu_remove_from_playlist">Pleylistdən çıxart</string>
     <string name="context_menu_change_image">Təsviri dəyişdir</string>
     <string name="accessibility_play">Oxut</string>
     <string name="accessibility_pause">Fasilə</string>
@@ -94,7 +94,7 @@
     <string name="set_as_ringtone">\'<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\' zəng səsi olaraq ayarlandı</string>
     <string name="settings_storage_category">Depo</string>
     <string name="settings_delete_cache_title">Gizli yaddaşı sil</string>
-    <string name="settings_delete_cache_summary">Gizli yaddaşdakı bütün təsvirləri sil</string>
+    <string name="settings_delete_cache_summary">Bütün keşlənmiş təsvirləri sil</string>
     <string name="settings_general_category">Ümumi</string>
     <string name="settings_show_music_visualization_title">Musiqi vizuallaşdırıcını göstər</string>
     <string name="settings_use_blur_title">Bulanıq arxaplan</string>
@@ -109,7 +109,7 @@
     <string name="empty_recent_main">Son çalınan mahnı yoxdur</string>
     <string name="empty_recent">Təzəlikcə dinlədiyiniz mahnılar burada görünəcək.</string>
     <string name="empty_playlist_main">Pleylistdə mahnı yoxdur</string>
-    <string name="empty_playlist_secondary">Bu pleylistə mahnı əlavə etmək üçün seçimlərdən \"Pleylistə əlavə et\"ə toxunun.</string>
+    <string name="empty_playlist_secondary">Bu pleylistə mahnı əlavə etmək üçün seçənəklərdən \"Pleylistə əlavə et\"ə toxunun.</string>
     <string name="empty_top_tracks_main">Top musiqilər yoxdur</string>
     <string name="empty_top_tracks_secondary">Çox vaxt dinlədiyiniz mahnılar bu siyahıya əlavə olunacaq.</string>
     <string name="empty_last_added_main">Son vaxtlar mahnı əlavə edilməyib</string>
@@ -117,7 +117,7 @@
     <string name="empty_generic_main">Musiqi tapılmadı</string>
     <string name="empty_generic_secondary">Komputerinizdən cihazınıza musiqi kopyalamaq üçün USB naqildən istifadə edin.</string>
     <string name="empty_queue_main">Çalma növbəsində mahnı yoxdur</string>
-    <string name="empty_queue_secondary">Çalma Növbəsinə mahnı əlavə etmək üçün, seçimlərdən \"Növbəyə əlavə et\"i seçin.</string>
+    <string name="empty_queue_secondary">Oxutma Növbəsinə mahnı əlavə etmək üçün, mahnı, albom və ya sənətçiyə aid seçənəklərdən menyusundan \"Növbəyə əlavə et\"i seçin.</string>
     <string name="error_playing_track">%1$s mahnısı oynadıla bilmir</string>
     <string name="header_unknown_year">Bilinməyən il</string>
     <string name="header_less_than_30s">30 saniyədən az</string>
